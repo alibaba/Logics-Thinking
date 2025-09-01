@@ -1,6 +1,4 @@
----
-license: apache-2.0
----
+
 # Logics-Thinking
 
 <div align="center">
