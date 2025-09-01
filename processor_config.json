@@ -1,0 +1,7 @@
+{
+    "auto_map": {
+      "AutoProcessor": "processing_logics.LogicsProcessor"
+    },
+    "processor_class": "LogicsProcessor"
+  }
+  
