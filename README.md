@@ -80,5 +80,6 @@ print(generated_text)
 
 ## Acknowledgement
 
-Logics is developed based on the codebases of the following projects: [SigLIP](https://huggingface.co/google/siglip-so400m-patch14-384),[ConvNeXT](https://huggingface.co/facebook/convnext-large-224), [Qwen3](https://github.com/QwenLM/Qwen3), [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). We sincerely thank these projects for their outstanding work.
+Logics is developed based on the codebases of the following projects: [SigLIP](https://huggingface.co/google/siglip-so400m-patch14-384),[ConvNeXT](https://huggingface.co/facebook/convnext-large-224), [Qwen3](https://github.com/QwenLM/Qwen3), [LLaVA-OneVision](https://llava-vl.github.io/blog/2024-08-05-llava-onevision/), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). We sincerely thank these projects for their outstanding work.
+
 
