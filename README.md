@@ -12,10 +12,6 @@
 
 We are honored to launch **Logics-Thinking**, a next-generation multimodal large model developed with great dedication by the **Logics Team** at Alibaba Group. Logics-Thinking is specifically engineered for advanced reasoning tasks, demonstrating outstanding performance in the domain of complex logical and abstract reasoning. This launch marks a key step in our mission to continuously push the frontiers of artificial intelligence, and we are excited for the future it will enable.
 
-<p align="center">
-  <img src="imgs/radar_thinking_en.png" width="44.5%" alt="Logics Performance EN">
-  <img src="imgs/radar_thinking_ch.png" width="45%" alt="Logics Performance CH">
-</p>
 
 <div align="center">
   <img src="imgs/logics-thinking-show.png" width="80%" alt="LOGICS-THINKING Experimental Results">
@@ -74,14 +70,7 @@ print(generated_text)
 ```
 
 
-## 📈 Experimental Results
 
-<div align="center">
-  <img src="imgs/logics_thinking_en_res_new.png" width="100%" alt="LOGICS-THINKING Experimental Results">
-  <i>Table. Performance comparison on multimodal mathematical and reasoning benchmarks.</i>
-</div>
-
-Logics-Thinking-8B exhibits robust performance on evaluation sets requiring sophisticated logical and mathematical skills, such as WeMath, MathVerse, and LogicVista, which demonstrates its advanced capacity for logical reasoning and for solving complex quantitative problems.
 
 <div align="center">
   <img src="imgs/case.png" width="100%" alt="LOGICS-THINKING Experimental Results">
