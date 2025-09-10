@@ -27,7 +27,6 @@ fastapi
 tensorboard
 wandb
 scenedetect
-openlm_hub
 fsspec
 pillow
 orjson
