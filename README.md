@@ -13,7 +13,7 @@
 We are honored to launch **Logics-Thinking**, a next-generation multimodal large model developed with great dedication by the **Logics Team** at Alibaba Group. Logics-Thinking is specifically engineered for advanced reasoning tasks, demonstrating outstanding performance in the domain of complex logical and abstract reasoning. This launch marks a key step in our mission to continuously push the frontiers of artificial intelligence, and we are excited for the future it will enable.
 
 <p align="center">
-  <img src="imgs/radar_thinking_en.png" width="44.5%" alt="Logics Performance EN">
+  <img src="imgs/radar_thinking_en.png" width="45%" alt="Logics Performance EN">
   <img src="imgs/radar_thinking_ch.png" width="45%" alt="Logics Performance CH">
 </p>
 
@@ -96,4 +96,5 @@ Logics-Thinking-8B exhibits robust performance on evaluation sets requiring soph
 ## Acknowledgement
 
 Logics is developed based on the codebases of the following projects: [SigLIP](https://huggingface.co/google/siglip-so400m-patch14-384),[ConvNeXT](https://huggingface.co/facebook/convnext-large-224), [Qwen3](https://github.com/QwenLM/Qwen3), [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). We sincerely thank these projects for their outstanding work.
+
 
