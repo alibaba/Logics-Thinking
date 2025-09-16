@@ -81,7 +81,7 @@ print(generated_text)
   <i>Table. Performance comparison on multimodal mathematical and reasoning benchmarks.</i>
 </div>
 <div align="center">
-  <img src="imgs/logics_thinking_en_res.png" width="100%" alt="LOGICS-THINKING Experimental Results">
+  <img src="imgs/logics_thinking_ch_res.png" width="100%" alt="LOGICS-THINKING Experimental Results">
   <i>Table. Performance comparison of models on multi-subject Chinese benchmark.</i>
 </div>
 
@@ -96,5 +96,6 @@ Logics-Thinking-8B exhibits robust performance on evaluation sets requiring soph
 ## Acknowledgement
 
 Logics is developed based on the codebases of the following projects: [SigLIP](https://huggingface.co/google/siglip-so400m-patch14-384),[ConvNeXT](https://huggingface.co/facebook/convnext-large-224), [Qwen3](https://github.com/QwenLM/Qwen3), [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [VLMEvalKit](https://github.com/open-compass/VLMEvalKit). We sincerely thank these projects for their outstanding work.
+
 
 
